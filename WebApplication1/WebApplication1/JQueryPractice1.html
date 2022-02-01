@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("button#btn1").click(function () {
+                $(":button#btn1").hide();
+            });
+
+            $("#btn2").dblclick(function () {
+
+                $("a[target != '_blank']").hide();
+
+            });
+
+            $("#text1").mouseenter(function () {
+
+                $("#text1").css("width", "500px");
+            });
+
+            $("#text1").mouseleave(function () {
+
+                $("#text1").css("width", "200px");
+            });
+           
+        });
+    </script>
+</head>
+<body>
+    <p>Paragraph 1</p>
+    <h1>Heading 2</h1>
+    <button id="btn1">Click Me</button>
+    <p>Paragraph 2</p>
+    <h1>Heading 2</h1>
+
+    <a href="https://www.google.com" target="_blank">Google</a>
+    <a href="https://www.w3school.com">W3 School</a>
+
+    <button id="btn2">Anker Tag</button>
+    
+    <input type="text" id="text1"/>
+</body>
+</html>

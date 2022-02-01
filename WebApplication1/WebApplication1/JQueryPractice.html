@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JQuery Example</title>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("button").click(function () {
+                 $("p:first").hide();
+             });
+     
+
+           
+        });
+
+        $(document).ready(function () {
+
+            $("button#btn").click(function () {
+                $("ul li:first-child").hide();
+            })
+        })
+
+        $(document).ready(function () {
+            $("button#ankerTag").click(function () {
+                $("a").hide();
+            });
+        });
+
+        $(document).ready(function () {
+
+            $("tr:even").css("background-color", "yellow");
+            $("tr:odd").css("background-color", "grey");
+        });
+
+       
+    </script>
+</head>
+<body>
+    <p class="test">Disappear after clicking</p>
+    <p class="test">Click me also</p>
+    <h1 class="test">Main Heading</h1>
+    <button>Click Me</button>
+    <p>List1: </p>
+    <ul>
+        <li>Tea</li>
+        <li>Coffee</li>
+        <li>Milk</li>
+    </ul>
+
+    <p>List2: </p>
+    <ul>
+        <li>Tea</li>
+        <li>Coffee</li>
+        <li>Milk</li>
+    </ul>
+    <button id="btn">Hide List Elt</button><br />
+
+    <a href="https://www.google.com" class="anker1">Googe</a>
+    <a href="https://www.w3schools.com" class="anker1">W3 School</a>
+
+    <button id="ankerTag">Anker Tag</button>
+
+    <table border="1" cellspacing="0" cellpadding="6">
+        <tr>
+            <th>Sr.No</th>
+            <th>Name</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Ankita</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Arya</td>
+        </tr>
+        
+        <tr>
+            <td>3</td>
+            <td>Payal</td>
+        </tr>
+
+    </table>
+
+    
+</body>
+</html>

@@ -1,0 +1,350 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            //Email Address Validation
+            $("#emailadd").keyup(function () {
+
+                if (validateEmail()) {
+                    
+                    $("#emailadd").css("border", "2px solid green");
+                    $("#erremail").text("**Valid Email Address").css("color", "green");
+                }
+                else {
+                    $("#emailadd").css("border", "2px solid red");
+                    $("#erremail").text("**Invalid Email Address").css("color", "red");
+                }
+            });
+
+            function validateEmail()
+            {
+                var mailadd = $("#emailadd").val();
+                var regex = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+                if (regex.test(mailadd)) {
+                    return true;
+                }
+                else {
+                    return false;
+                }
+            }
+            //End Email Validation
+
+            //No space allowed in username, first name and in last name
+            $(".nospace").keydown(function (e) {
+                if (e.keyCode == 32)
+                {
+                    alert("No Space Is Allowed");
+                    $(".nospace").css("border-color", "red");
+                    e.preventDefault();
+                }
+                else
+                {
+                    $(".nospace").css('border-color', '');
+                }
+            });
+            //End Space Validation
+
+            //Username Validation
+            function validateusername()
+            {
+                var username = $("#uname").val();
+                var username_regex = /^[a-zA-Z0-9](.*[a-zA-Z0-9])?$/;
+
+                //username validation
+                if (username == "") {
+                    return 1;
+                }
+                else if (!username.match(username_regex)) {
+                    return 2;
+                }
+                else if (!(username.length >= 6 && username.length <= 8)) {
+                    return 3;
+                } else {
+                    return 4;
+                }
+            }
+
+            $("#uname").keyup(function () {
+
+                if (validateusername() == 1) {
+                    $("#uname").css("border-color", "red");
+                    $("#erruname").text("**Please Enter User Name");
+                }
+                else if (validateusername() == 2) {
+                    $("#uname").css("border-color", "red");
+                    $("#erruname").text("**No Special Character At Start And End");
+                }
+                else if (validateusername() == 3) {
+                    $("#uname").css("border-color", "red");
+                    $("#erruname").text("**Please enter username between 6 and 8 characters");
+                }
+                else if(validateusername() == 4){
+                    $("#uname").css("border-color", "");
+                    $("#erruname").text("");
+                }
+            });
+            //End User name validation
+
+            //Validate First Name
+            function validatefirstname() {
+                var firstname = $("#fname").val();
+
+               var name_regex = /^[a-zA-Z]+$/;
+               if (firstname == "")
+               {
+                  return 1;
+               }
+                else if (!firstname.match(name_regex))
+              {
+                  return 2;
+              }
+               else
+               {
+                  return 3;
+               }
+            }
+
+            $("#fname").keyup(function ()
+            {
+                if (validatefirstname() == 1)
+                {
+                    $("#fname").css("border-color", "red");
+                    $("#errfname").text("**Please Enter First Name");
+                }
+                else if (validatefirstname() == 2)
+                {
+                    $("#fname").css("border-color", "red");
+                    $("#errfname").text("**Please enter alphabets only");
+                }
+                else if (validatefirstname() == 3)
+                {
+                    $("#fname").css("border-color", "");
+                    $("#errfname").text("");
+                }
+            });
+            //End First Name Validation
+
+            //Validate Last Name
+            function validatelastname() {
+                var lastname = $("#lname").val();
+
+                var name_regex = /^[a-zA-Z]+$/;
+                if (lastname == "") {
+                    return 1;
+                }
+                else if (!lastname.match(name_regex)) {
+                    return 2;
+                }
+                else {
+                    return 3;
+                }
+            }
+
+            $("#lname").keyup(function () {
+                if (validatelastname() == 1)
+                {
+                    $("#lname").css("border-color", "red");
+                    $("#errlname").text("**Please Enter Last Name");
+                }
+                else if (validatelastname() == 2)
+                {
+                    $("#lname").css("border-color", "red");
+                    $("#errlname").text("**Please enter alphabets only");
+                }
+                else if (validatelastname() == 3)
+                {
+                    $("#lname").css("border-color", "");
+                    $("#errlname").text("");
+                }
+            });
+            //End Last Name Validation
+
+
+            //Password Validation
+            function validatepassword() {
+
+                var password = $("#pass").val();
+
+                //password validation
+                if (password == "") {
+                    return 1;
+                }
+                else if (password.length < 8) {
+                    return 2;
+                }
+                else if (password.length > 15) {
+                    return 3;
+                }
+                else {
+                    return 4;
+                }
+            }
+
+            $("#pass").keyup(function () {
+
+                if (validatepassword() == 1) {
+                    $("#pass").css("border-color", "red");
+                    $("#errpass").text("**Please Enter Password").css("color", "red");
+                }
+                else if (validatepassword() == 2) {
+                    $("#pass").css("border-color", "red");
+                    $("#errpass").text("**Password length must be at least 8 characters").css("color", "red");
+                }
+                else if (validatepassword() == 3) {
+                    $("#pass").css("border-color", "red");
+                    $("#errpass").text("**Password length must not exceed 15 characters").css("color", "red");
+                }
+                else if (validatepassword() == 4)
+                {
+                    $("#pass").css("border-color", "");
+                    $("#errpass").text("Valid Password").css("color", "green");
+                    
+                }
+            });
+            //End Password Validation
+
+            //Confirm Password Validation
+            function validateconfirmpass()
+            {
+                var confirmpassword = $("#confirmpass").val();
+                var password = $("#pass").val();
+
+                if (password != confirmpassword) {
+                    return 1;
+                }
+                else {
+                    return 2;
+                }
+            }
+
+            $("#confirmpass").keyup(function () {
+
+                if (validateconfirmpass() == 1) {
+                    $("#confirmpass").css("border-color", "red");
+                    $("#errconfirmpass").text("**Password are not same").css("color", "red");
+                }
+                else if (validateconfirmpass() == 2)
+                {
+                    $("#confirmpass").css("border-color", "");
+                    $("#errconfirmpass").text("Both Passwords Are Same").css("color", "green");
+                }
+            });
+            //End Confirm Password Validation
+
+            //educational qualification
+            $("#course").change(function () {
+
+                var data = $("#course :selected").val();
+                alert("Educational Qualification is " + data);
+            });
+        });
+
+        function selectGender() {
+            var s = document.getElementsByName("gender");
+            var i;
+            for(i = 0; i < s.length; i++)
+            {
+                alert("You Have Selected " + s[i].val);            
+            }
+        }
+
+    </script>
+    <style>
+        body
+        {
+            background-color : cornsilk;
+        }
+      
+        .table1 {
+            border : 1px solid grey;
+            margin: 100px 0px 0px 400px;
+            padding : 20px 50px;
+        }
+
+        span
+        {
+            color : red;
+        }
+
+        input {
+            border: 1px solid darkgray;  
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center">Registration Form</h1>
+    <table class="table1">
+        <tr>
+            <td>User Name*:</td>
+            <td><input type="text" id="uname" placeholder="Username" class="nospace" onpaste="return false" oncut="return false" oncopy="return false" ondrop="return false"/><span id="erruname" ></span></td>
+        </tr>
+
+        <tr>
+            <td>Password*:</td>
+            <td><input type="password" id="pass" /><span id="errpass"></span></td>
+        </tr>
+
+        <tr>
+            <td>Confirm Password*:</td>
+            <td><input type="password" id="confirmpass" /><span id="errconfirmpass"></span></td>
+        </tr>
+
+        <tr>
+            <td>First Name*:</td>
+            <td><input type="text" id="fname" placeholder="First Name" class="nospace"/><span id="errfname"></span></td>
+        </tr>
+
+        <tr>
+            <td>Last Name*:</td>
+            <td><input type="text" id="lname" placeholder="Last Name" class="nospace"/><span id="errlname"></span></td>
+        </tr>
+
+        <tr>
+            <td>DOB:</td>
+            <td><input type="datetime-local" id="birthdate" /></td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td><input type="email" id="emailadd" class="nospace"/><span id="erremail"></span></td>
+        </tr>
+
+        <tr>
+            <td>Address:</td>
+            <td><textarea id="add" cols="20" rows="5"></textarea></td>
+        </tr>
+
+        <tr>
+            <td>Gender:</td>
+            <td><input type="radio" name="gender" value="male" />Male <input type="radio" name="gender" value="female" />Female</td>
+        </tr>
+
+        <tr>
+            <td>Educational Qualification: </td>
+            <td>
+                <select name="courses" id="course">
+                    <option>Select</option>
+                    <option>Bsc Mathematics</option>
+                    <option>Bsc Computer Science</option>
+                    <option>Bsc Physics</option>
+                    <option>Bsc Statistics</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Attach Resume: </td>
+            <td><input type="file" id="filename" accept="application/pdf,application/doc" /></td>
+        </tr>
+
+        <tr>
+            <td colspan="2"><input type="button" value="Submit" onclick="selectGender();" id="btnsubmit" style="margin-top:20px;background-color:darkslategrey;padding:3px 300px;color:azure" /></td>
+        </tr>
+    </table>
+</body>
+</html>

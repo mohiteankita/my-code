@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.exe
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.deps.json
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\ref\StreamReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\bin\Debug\net5.0\StreamReaderWriter.pdb
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\ref\StreamReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.pdb
+C:\Users\1\source\repos\CSharpPractice\StreamReaderWriter\obj\Debug\net5.0\StreamReaderWriter.genruntimeconfig.cache

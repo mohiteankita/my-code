@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.exe
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.deps.json
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\ref\DelegateExample.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\bin\Debug\net5.0\DelegateExample.pdb
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\ref\DelegateExample.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.pdb
+C:\Users\1\source\repos\CSharpPractice\DelegateExample\obj\Debug\net5.0\DelegateExample.genruntimeconfig.cache

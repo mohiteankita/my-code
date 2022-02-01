@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EG+g3IaOtLD4sVzXyURuVsFl3jizYWV1Mp1SSNfOL7WCgU9v1SRb9gjs1t4zlJWQnlaF1KoKZUOEzsLk7zf1ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\CSharpPractice\\BinaryReaderWriter\\BinaryReaderWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

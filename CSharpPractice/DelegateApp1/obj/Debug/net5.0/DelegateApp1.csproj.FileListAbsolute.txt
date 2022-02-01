@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.exe
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.deps.json
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\ref\DelegateApp1.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\bin\Debug\net5.0\DelegateApp1.pdb
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\ref\DelegateApp1.dll
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.pdb
+C:\Users\1\source\repos\CSharpPractice\DelegateApp1\obj\Debug\net5.0\DelegateApp1.genruntimeconfig.cache

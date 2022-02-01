@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.exe
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.deps.json
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\ref\BinaryReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\bin\Debug\net5.0\BinaryReaderWriter.pdb
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\ref\BinaryReaderWriter.dll
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.pdb
+C:\Users\1\source\repos\CSharpPractice\BinaryReaderWriter\obj\Debug\net5.0\BinaryReaderWriter.genruntimeconfig.cache

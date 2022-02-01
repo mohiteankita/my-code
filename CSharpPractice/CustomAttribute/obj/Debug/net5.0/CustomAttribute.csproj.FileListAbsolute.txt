@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.exe
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.deps.json
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.dll
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\ref\CustomAttribute.dll
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\bin\Debug\net5.0\CustomAttribute.pdb
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.dll
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\ref\CustomAttribute.dll
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.pdb
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.genruntimeconfig.cache
+C:\Users\1\source\repos\CSharpPractice\CustomAttribute\obj\Debug\net5.0\CustomAttribute.csproj.AssemblyReference.cache

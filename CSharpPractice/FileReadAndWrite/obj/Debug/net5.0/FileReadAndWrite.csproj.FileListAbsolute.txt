@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.exe
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.deps.json
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.dll
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\ref\FileReadAndWrite.dll
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\bin\Debug\net5.0\FileReadAndWrite.pdb
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.dll
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\ref\FileReadAndWrite.dll
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.pdb
+C:\Users\1\source\repos\CSharpPractice\FileReadAndWrite\obj\Debug\net5.0\FileReadAndWrite.genruntimeconfig.cache

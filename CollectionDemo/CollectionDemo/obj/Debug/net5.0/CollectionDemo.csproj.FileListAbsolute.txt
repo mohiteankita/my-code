@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.exe
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.deps.json
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.json
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.dev.json
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.dll
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\ref\CollectionDemo.dll
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.pdb
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfo.cs
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.dll
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\ref\CollectionDemo.dll
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.pdb
+C:\Users\1\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.genruntimeconfig.cache

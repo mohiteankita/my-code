@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.exe
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.deps.json
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.dll
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\ref\FileInputOutput.dll
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\bin\Debug\net5.0\FileInputOutput.pdb
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.dll
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\ref\FileInputOutput.dll
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.pdb
+C:\Users\1\source\repos\CSharpPractice\CSharpPractice\obj\Debug\net5.0\FileInputOutput.genruntimeconfig.cache

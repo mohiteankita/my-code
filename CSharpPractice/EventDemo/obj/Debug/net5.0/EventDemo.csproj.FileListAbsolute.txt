@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.exe
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.deps.json
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.dll
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\ref\EventDemo.dll
+C:\Users\1\source\repos\CSharpPractice\EventDemo\bin\Debug\net5.0\EventDemo.pdb
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.dll
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\ref\EventDemo.dll
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.pdb
+C:\Users\1\source\repos\CSharpPractice\EventDemo\obj\Debug\net5.0\EventDemo.genruntimeconfig.cache

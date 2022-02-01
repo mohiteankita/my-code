@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.exe
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.deps.json
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.runtimeconfig.json
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.runtimeconfig.dev.json
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.dll
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\ref\UserDefinedGenericCollection.dll
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\bin\Debug\net5.0\UserDefinedGenericCollection.pdb
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.AssemblyInfo.cs
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.dll
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\ref\UserDefinedGenericCollection.dll
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.pdb
+C:\Users\1\source\repos\CollectionDemo\UserDefinedGenericCollection\obj\Debug\net5.0\UserDefinedGenericCollection.genruntimeconfig.cache

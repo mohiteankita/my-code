@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("#course").change(function () {
+
+                var data = $("#course :selected").val();
+                alert("Educational Qualification is " + data);
+            });
+        });
+     
+    </script>
+</head>
+<body>
+    <select name="courses" id="course">
+        <option>Select</option>
+        <option>Bsc Mathematics</option>
+        <option>Bsc Computer Science</option>
+        <option>Bsc Physics</option>
+        <option>Bsc Statistics</option>
+    </select>
+</body>
+</html>
