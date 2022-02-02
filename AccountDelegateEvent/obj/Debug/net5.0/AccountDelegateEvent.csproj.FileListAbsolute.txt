@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.exe
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.deps.json
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\ref\AccountDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\bin\Debug\net5.0\AccountDelegateEvent.pdb
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\ref\AccountDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.pdb
+C:\Users\1\source\repos\CSharpPractice1\AccountDelegateEvent\obj\Debug\net5.0\AccountDelegateEvent.genruntimeconfig.cache
