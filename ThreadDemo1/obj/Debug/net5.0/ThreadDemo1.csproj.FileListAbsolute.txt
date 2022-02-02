@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.exe
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.deps.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ref\ThreadDemo1.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\bin\Debug\net5.0\ThreadDemo1.pdb
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ref\ThreadDemo1.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.pdb
+C:\Users\1\source\repos\CSharpPractice1\ThreadDemo1\obj\Debug\net5.0\ThreadDemo1.genruntimeconfig.cache
