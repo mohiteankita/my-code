@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.exe
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.deps.json
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\ref\StockManagementDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\bin\Debug\net5.0\StockManagementDelegateEvent.pdb
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\ref\StockManagementDelegateEvent.dll
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.pdb
+C:\Users\1\source\repos\CSharpPractice1\StockManagementDelegateEvent\obj\Debug\net5.0\StockManagementDelegateEvent.genruntimeconfig.cache
