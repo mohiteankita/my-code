@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.exe
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.deps.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.runtimeconfig.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.runtimeconfig.dev.json
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ref\ThreadMain.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\bin\Debug\net5.0\ThreadMain.pdb
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.AssemblyInfo.cs
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ref\ThreadMain.dll
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.pdb
+C:\Users\1\source\repos\CSharpPractice1\ThreadMain\obj\Debug\net5.0\ThreadMain.genruntimeconfig.cache
