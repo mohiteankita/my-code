@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.exe
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.deps.json
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.dll
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\ref\BookClass.dll
+C:\Users\1\source\repos\Assignment1\BookClass\bin\Debug\net5.0\BookClass.pdb
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.dll
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\ref\BookClass.dll
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.pdb
+C:\Users\1\source\repos\Assignment1\BookClass\obj\Debug\net5.0\BookClass.genruntimeconfig.cache
