@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.exe
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.deps.json
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.dll
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ref\ShapeAbstractClass.dll
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\bin\Debug\net5.0\ShapeAbstractClass.pdb
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.dll
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ref\ShapeAbstractClass.dll
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.pdb
+C:\Users\1\source\repos\Assignment1\ShapeAbstractClass\obj\Debug\net5.0\ShapeAbstractClass.genruntimeconfig.cache
