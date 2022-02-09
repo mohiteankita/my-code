@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.exe
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.deps.json
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.dll
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\ref\RectangleClassUseOfOut.dll
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\bin\Debug\net5.0\RectangleClassUseOfOut.pdb
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.dll
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\ref\RectangleClassUseOfOut.dll
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.pdb
+C:\Users\1\source\repos\Assignment1\RectangleClassUseOfOut\obj\Debug\net5.0\RectangleClassUseOfOut.genruntimeconfig.cache
