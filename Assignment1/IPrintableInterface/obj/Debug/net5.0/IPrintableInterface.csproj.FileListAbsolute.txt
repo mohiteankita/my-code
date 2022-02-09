@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.exe
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.deps.json
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.dll
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\ref\IPrintableInterface.dll
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\bin\Debug\net5.0\IPrintableInterface.pdb
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.dll
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\ref\IPrintableInterface.dll
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.pdb
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.genruntimeconfig.cache
+C:\Users\1\source\repos\Assignment1\IPrintableInterface\obj\Debug\net5.0\IPrintableInterface.csproj.AssemblyReference.cache
