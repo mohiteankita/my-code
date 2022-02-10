@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\bin\Debug\net5.0\MathLibraryDemo.deps.json
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\bin\Debug\net5.0\MathLibraryDemo.dll
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\bin\Debug\net5.0\ref\MathLibraryDemo.dll
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\bin\Debug\net5.0\MathLibraryDemo.pdb
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.dll
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\ref\MathLibraryDemo.dll
+C:\Users\1\source\repos\Assignment1\MathLibraryDemo\obj\Debug\net5.0\MathLibraryDemo.pdb
