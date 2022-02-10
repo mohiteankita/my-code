@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.exe
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.deps.json
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.dll
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\ref\StoreDataIntoFile.dll
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\bin\Debug\net5.0\StoreDataIntoFile.pdb
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.dll
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\ref\StoreDataIntoFile.dll
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.pdb
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.genruntimeconfig.cache
+C:\Users\1\source\repos\Assignment1\StoreDataIntoFile\obj\Debug\net5.0\StoreDataIntoFile.csproj.AssemblyReference.cache
