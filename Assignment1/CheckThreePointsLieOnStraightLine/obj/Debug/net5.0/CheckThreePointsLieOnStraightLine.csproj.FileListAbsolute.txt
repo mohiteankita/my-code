@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.exe
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.deps.json
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.dll
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\ref\CheckThreePointsLieOnStraightLine.dll
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\bin\Debug\net5.0\CheckThreePointsLieOnStraightLine.pdb
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.dll
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\ref\CheckThreePointsLieOnStraightLine.dll
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.pdb
+C:\Users\1\source\repos\Assignment1\CheckThreePointsLieOnStraightLine\obj\Debug\net5.0\CheckThreePointsLieOnStraightLine.genruntimeconfig.cache
