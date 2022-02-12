@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.exe
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.deps.json
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.dll
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\ref\LessBalanceExceptionEx.dll
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\bin\Debug\net5.0\LessBalanceExceptionEx.pdb
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.dll
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\ref\LessBalanceExceptionEx.dll
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.pdb
+C:\Users\1\source\repos\Assignment1\LessBalanceExceptionEx\obj\Debug\net5.0\LessBalanceExceptionEx.genruntimeconfig.cache
