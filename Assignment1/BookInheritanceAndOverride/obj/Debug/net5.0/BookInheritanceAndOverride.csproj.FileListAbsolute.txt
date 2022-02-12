@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.exe
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.deps.json
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.dll
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\ref\BookInheritanceAndOverride.dll
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\bin\Debug\net5.0\BookInheritanceAndOverride.pdb
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.dll
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\ref\BookInheritanceAndOverride.dll
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.pdb
+C:\Users\1\source\repos\Assignment1\BookInheritanceAndOverride\obj\Debug\net5.0\BookInheritanceAndOverride.genruntimeconfig.cache
