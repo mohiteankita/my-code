@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.exe
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.deps.json
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.dll
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\ref\CheckPointLiesInsideOutsideOnTheCircle.dll
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\bin\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.pdb
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.dll
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\ref\CheckPointLiesInsideOutsideOnTheCircle.dll
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.pdb
+C:\Users\1\source\repos\Assignment1\CheckPointLiesInsideOutsideOnTheCircle\obj\Debug\net5.0\CheckPointLiesInsideOutsideOnTheCircle.genruntimeconfig.cache
