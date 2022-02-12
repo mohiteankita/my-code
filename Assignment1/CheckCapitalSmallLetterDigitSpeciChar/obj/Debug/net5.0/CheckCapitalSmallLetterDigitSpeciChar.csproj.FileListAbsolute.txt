@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.exe
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.deps.json
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.runtimeconfig.json
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.runtimeconfig.dev.json
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.dll
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\ref\CheckCapitalSmallLetterDigitSpeciChar.dll
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\bin\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.pdb
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.AssemblyInfo.cs
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.dll
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\ref\CheckCapitalSmallLetterDigitSpeciChar.dll
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.pdb
+C:\Users\1\source\repos\Assignment1\CheckCapitalSmallLetterDigitSpeciChar\obj\Debug\net5.0\CheckCapitalSmallLetterDigitSpeciChar.genruntimeconfig.cache
