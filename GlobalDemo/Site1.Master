@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="GlobalDemo.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 1105px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table border="2">
+                <tr>
+                    <td colspan="2">Welcome to My Site</td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Menu ID="Menu1" runat="server">
+                         <Items>
+                          <asp:MenuItem NavigateUrl="~/WebForm2.aspx" Text="First Page" Value="First Page">
+                              <asp:MenuItem NavigateUrl="~/WebForm5.aspx" Text="SubMenu" Value="SubMenu"></asp:MenuItem>
+                             </asp:MenuItem>
+                          <asp:MenuItem NavigateUrl="~/WebForm3.aspx" Text="Second Page" Value="Second Page"></asp:MenuItem>
+                          <asp:MenuItem NavigateUrl="~/WebForm4.aspx" Text="Third Page" Value="Third Page"></asp:MenuItem>
+                         </Items>
+                        </asp:Menu>
+                    </td>
+                    <td class="auto-style1">                     
+                       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                       </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>        
+        </div>
+    </form>
+</body>
+</html>
