@@ -1,0 +1,48 @@
+﻿@using MVCExample.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        h1
+        {
+            text-align : center;
+        }
+    </style>
+</head>
+<body>
+    <div> 
+        
+        @{ 
+            List<Department> dept_list = TempData["deptlist"] as List<Department>;
+        }
+
+        <h1>Department Information</h1>
+        <table border="1" align="center">
+            <thead>
+                <tr>
+                    <th>Department ID</th>
+                    <th>Department Name</th>
+                    <th>Location</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+            @foreach(Department dept in dept_list)
+            {
+                <tr>
+                    <td>@dept.deptid</td>
+                    <td>@dept.deptname</td>
+                    <td>@dept.location</td>
+                    <td>@dept.country</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
