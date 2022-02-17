@@ -1,0 +1,50 @@
+﻿@model MVCDalEx1.Models.Department
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Department</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.deptid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.deptid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.deptname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.deptname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.country)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.country)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Update", new { deptid = Model.deptid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
