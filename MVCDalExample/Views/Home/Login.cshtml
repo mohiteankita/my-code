@@ -1,0 +1,43 @@
+﻿@model MVCDalEx1.Models.UserClass
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div> 
+        @Html.AntiForgeryToken()
+        @using(Html.BeginForm())
+            {
+                <table>
+                    <tr>
+                        <td colspan="3">
+                            @Html.ValidationSummary();
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(model => model.Username)</td>
+                        <td>@Html.EditorFor(model => model.Username)</td>
+                        <td>@Html.ValidationMessageFor(model => model.Username)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(model => model.Password)</td>
+                        <td>@Html.EditorFor(model => model.Password)</td>
+                        <td>@Html.ValidationMessageFor(model => model.Password)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="submit"/>
+                        </td>
+                    </tr>
+                </table>
+            }
+    </div>
+</body>
+</html>

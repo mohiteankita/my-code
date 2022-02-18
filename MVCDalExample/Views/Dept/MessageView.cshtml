@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MessageView</title>
+</head>
+<body>
+    <div>
+        @if (Session["msg"] != null)
+        {
+            var msg = Session["msg"].ToString();
+            <span>@msg</span>
+        }
+
+        @Html.ActionLink("Back To Index", "Index");
+    </div>
+</body>
+</html>

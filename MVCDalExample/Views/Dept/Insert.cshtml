@@ -6,6 +6,19 @@
 
 <h2>Insert</h2>
 
+@if(ViewBag.msg != null)
+ {
+    var message = ViewBag.msg;
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@message");
+            document.getElementById("deptid").value = "";
+            document.getElementById("deptname").value = "";
+            document.getElementById("location").value = "";
+            document.getElementById("country").value = "";
+        };
+    </script>
+ }
 
 @using (Html.BeginForm()) 
 {
