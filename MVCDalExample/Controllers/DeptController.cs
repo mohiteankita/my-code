@@ -24,7 +24,7 @@ namespace MVCDalEx1.Controllers
         }
 
         [HttpPost]
-        public ActionResult Insert(FormCollection collection)
+        /*public ActionResult Insert(FormCollection collection)
         {
             Department dept = new Department();
             dept.deptid = Convert.ToInt32(collection["deptid"]);
@@ -33,18 +33,36 @@ namespace MVCDalEx1.Controllers
             dept.country = collection["country"].ToString();
             dal.InsertDepartment(dept);
             return View();
+        }*/
+
+        public ActionResult Insert(Department d)
+        {
+            if(ModelState.IsValid)
+            {
+                dal.InsertDepartment(d);
+                //Session["msg"] = "Data Inserted Successfully";//for display message to user
+                //ViewData["msg"] = "Data Inserted Successfully";
+                ViewBag.msg = "Data Inserted Successfully";//for alert
+                //return RedirectToAction("MessageView");
+            }
+            return View();
+        }
+
+        public ActionResult MessageView()
+        {
+            return View();
         }
 
         public ActionResult Update(int deptid)
         {
             Department dept = dal.GetDepartment(deptid);
-            return View(dept);
+            return View(deptid);
         }
 
         [HttpPost]
         public ActionResult Update(Department d)
         {
-            dal.UpdateDepartment(d);
+           dal.UpdateDepartment(d);                   
             return View(d);
         }
 
