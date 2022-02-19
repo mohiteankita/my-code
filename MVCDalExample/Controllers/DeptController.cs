@@ -53,17 +53,17 @@ namespace MVCDalEx1.Controllers
             return View();
         }
 
-        public ActionResult Update(int deptid)
+        public ActionResult Update(int id)
         {
-            Department dept = dal.GetDepartment(deptid);
-            return View(deptid);
+            Department dept = dal.GetDepartment(id);
+            return View(dept);
         }
 
         [HttpPost]
         public ActionResult Update(Department d)
         {
            dal.UpdateDepartment(d);                   
-            return View(d);
+            return View();
         }
 
         public ActionResult Details(int id)
