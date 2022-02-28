@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Online_Pharmacy_SystemModel5StoreContainer" CdmEntityContainer="Online_Pharmacy_SystemEntities7">
+    <EntitySetMapping Name="Pharmacist_Login">
+      <EntityTypeMapping TypeName="Online_Pharmacy_SystemModel5.Pharmacist_Login">
+        <MappingFragment StoreEntitySet="Pharmacist_Login">
+          <ScalarProperty Name="Login_Id" ColumnName="Login_Id" />
+          <ScalarProperty Name="Usename" ColumnName="Usename" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
