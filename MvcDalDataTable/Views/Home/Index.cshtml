@@ -1,0 +1,260 @@
+﻿@model IEnumerable<MVCDalExample.Models.Department>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<head>
+
+    <link href="~/CSS/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="~/CSS/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="~/CSS/buttons.jqueryui.min.css" rel="stylesheet" />
+    <link href="~/Areas/Template/plugins/exporttoexcelprint/1.6.0_buttons.dataTables.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/buttons/1.6.0/css/buttons.bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.dataTables.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#myTable').dataTable({
+                "paging": true // false to disable pagination (or any other option)
+            });
+            $('.dataTables_length').addClass('bs-select');
+        });
+
+
+        //Load Data in Table when documents is ready  
+        $(document).ready(function () {
+            loadData();
+        });
+
+        //Load Data function  
+        function loadData() {
+            $.ajax({
+                url: "/Home/Index",
+                type: "GET",
+                contentType: "application/json;charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    var html = '';
+                    $.each(result, function (key, item) {
+                        html += '<tr>';
+                        html += '<td>' + item.DepartmentId + '</td>';
+                        html += '<td>' + item.Name + '</td>';
+                        html += '<td>' + item.ManagetId + '</td>';
+                        html += '<td>' + item.LocationId + '</td>';
+                        
+                        html += '<td><a href="#" onclick="return getbyID(' + item.DepartmentId + ')">Edit</a> | <a href="#" onclick="Delele(' + item.DepartmentId + ')">Delete</a></td>';
+                        html += '</tr>';
+                    });
+                    $('.tbody').html(html);
+                },
+                error: function (errormessage) {
+                    alert(errormessage.responseText);
+                }
+            });      
+        }
+
+        //Add Data Function   
+        function Add() {
+            var res = validate();
+            if (res == false) {
+                return false;
+            }
+            var deptObj = {
+                DepartmentId: $('#DepartmentId').val(),
+                Name: $('#Name').val(),
+                ManagerId: $('#ManagerId').val(),
+                LocationId: $('#LocationId').val(),
+            };
+            $.ajax({
+                url: "/Home/Create",
+                data: JSON.stringify(deptObj),
+                type: "POST",
+                contentType: "application/json;charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    loadData();
+                    $('#myModal').modal('hide');
+                },
+                error: function (errormessage) {
+                    alert(errormessage.responseText);
+                }
+            });
+        }
+    </script>
+
+    @*<script>
+
+            function sortTable() {
+                var table, rows, switching, i, x, y, shouldSwitch;
+                table = document.getElementById("myTable");
+                switching = true;
+
+                while (switching) {
+
+                    switching = false;
+                    rows = table.rows;
+
+                    for (i = 1; i < (rows.length - 1); i++) {
+
+                        shouldSwitch = false;
+
+                        x = rows[i].getElementsByTagName("TD")[1];
+                        y = rows[i + 1].getElementsByTagName("TD")[1];
+
+                        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                    if (shouldSwitch) {
+
+                        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                        switching = true;
+                    }
+                }
+            }
+
+            function myFunction() {
+                var input, filter, table, tr, td, i, txtValue;
+                input = document.getElementById("myInput");
+                filter = input.value.toUpperCase();
+                table = document.getElementById("myTable");
+                tr = table.getElementsByTagName("tr");
+                for (i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td")[1];
+                    if (td) {
+                        txtValue = td.textContent || td.innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            tr[i].style.display = "";
+                        } else {
+                            tr[i].style.display = "none";
+                        }
+                    }
+                }
+            }
+        </script>*@
+</head>
+
+<h2>Department Information</h2>
+
+<div class="container">
+    <button type="button" class="btn btn-primary" data-toggle="#myModal">Add Department</button><br />
+
+<table class="table table-striped table-hover" id="myTable">
+      <thead>
+           <tr>
+               <th>
+                  @Html.DisplayNameFor(model => model.department_id)
+               </th>
+               <th>
+                  @Html.DisplayNameFor(model => model.department_name)
+               </th>
+               <th>
+                  @Html.DisplayNameFor(model => model.manager_id)
+               </th>
+               <th>
+                  @Html.DisplayNameFor(model => model.location_id)
+               </th>
+               <th></th>
+           </tr>
+</thead>
+      <tbody class="tbody">
+                                                                                                   
+      </tbody>
+</table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title" id="myModalLabel">Add Department</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="DepartmentId">Department ID</label>
+                        <input type="text" class="form-control" id="DepartmentId" placeholder="Id" />
+                    </div>
+                    <div class="form-group">
+                        <label for="Name">Department Name</label>
+                        <input type="text" class="form-control" id="Name" placeholder="Name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="ManagerId">Country</label>
+                        <input type="text" class="form-control" id="ManagerId" placeholder="Manager Id" />
+                    </div>
+                    <div class="form-group">
+                        <label for="LocationId">Location Id</label>
+                        <input type="text" class="form-control" id="LocationId" placeholder="Location Id" />
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Insert();">Insert</button>
+                <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Create New", "Insert")
+</p>
+@*<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+    <br />
+    <br />*@
+
+<!--Sorting by department_name-->
+<!--<p><button onclick="sortTable()">Sort</button></p>-->
+
+@*<table class="table table-striped table-hover" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.department_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.department_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.manager_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.location_id)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.department_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.department_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.manager_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.location_id)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Update", new { id = item.department_id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.department_id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.department_id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>*@

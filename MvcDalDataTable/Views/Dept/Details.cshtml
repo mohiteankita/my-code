@@ -1,0 +1,50 @@
+﻿@model MVCDalExample.Models.Department
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Department</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.department_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.department_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.department_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.department_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.manager_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.manager_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.location_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.location_id)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Update", new {  id = Model.department_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
