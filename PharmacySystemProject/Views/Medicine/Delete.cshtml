@@ -1,0 +1,86 @@
+﻿@model Online_Pharmacy_System_Project.Models.Medicine
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<head>
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+
+        dl-horizontal, h2 {
+            margin: 10px 0px 0px 50px;
+        }
+    </style>
+</head>
+
+<h2>Delete Medicine Details</h2>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <h4>Medicine</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Reference_No)
+                @Html.HiddenFor(model => model.Medicine_Id)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Reference_No)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Medicine_Type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Medicine_Type)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Medicine_Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Medicine_Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Mfg_Date)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Mfg_Date)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Exp_Date)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Exp_Date)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Medicine_Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Medicine_Price)
+            </dd>
+
+        </dl>
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

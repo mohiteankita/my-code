@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<head>
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+
+        .form-group, span, h2, h1{
+            margin: 10px 0px 0px 50px;
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+    @if (Session["ordermsg"] != null)
+    {
+        <br /><br />
+        string name = Session["ordermsg"].ToString();
+        <span>Hello @name Your Order Is Successfully Placed!!</span>
+        <h1>Payment Receipt</h1><br /><br />       
+        Session["ordermsg"] = null;
+    }
+    else
+    {
+        <h2>Order</h2>
+    }
+<div class="row">
+    @using (Html.BeginForm("/Index", "Order", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label for="customer_name">Customer Name</label>
+            <input type="text" class="form-control" id="customer_name" name="customer_name" value="@Model.Customer_Name" />
+        </div>
+
+        <div class="form-group">
+            <label for="medicine_name">Medicine Name</label>
+            <input type="text" class="form-control" id="medicine_name" name="medicine_name" value="@Model.Medicine_Name" />
+        </div>
+
+        <div class="form-group">
+            <label for="amount">Amount</label>
+            <input type="text" class="form-control" id="amount" name="amount" value="@Model.Amount" />
+        </div>
+
+        <div class="form-group">
+            <label for="quantity">Quantity</label>
+            <input type="text" class="form-control" id="quantity" name="quantity" value="@Model.Quantity" />
+        </div>
+
+            <div class="form-group">
+                <label for="total_amount">Total Amount</label>
+                <input type="text" class="form-control" id="total_amount" name="total_amount" value="@Model.Total_Amount" disabled />
+            </div>
+
+      
+            <div class="form-group">
+                <input type="Submit" class="btn btn-primary" />
+            </div>
+
+            <div class="form-group">
+                @Html.ActionLink("Show Available Medicine", "ShowMedicines", "Medicine")
+            </div>
+
+    }
+</div>
+</body>

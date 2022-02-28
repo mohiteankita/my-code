@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Online_Pharmacy_System_Project.Models.Medicine>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<head>
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+
+        table, h2 {
+            margin: 10px 0px 0px 50px;
+        }
+    </style>
+</head>
+
+
+<h2>Medicine Details</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Reference_No)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mfg_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Exp_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicine_Price)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reference_No)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medicine_Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medicine_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mfg_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Exp_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medicine_Price)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Medicine_Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Medicine_Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Medicine_Id })
+            </td>
+        </tr>
+    }
+
+</table>
